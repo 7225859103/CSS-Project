@@ -27,7 +27,7 @@ CSS3 (Flexbox, Grid, Transitions, Box-Shadow)
 
 ## Screenshot
 
-![Pet Adoption Website]([screenshot1.png](https://github.com/7225859103/CSS-Project/blob/main/images/screenshot1.png.png))
+![Pet Adoption Website](https://github.com/7225859103/CSS-Project/blob/main/images/screenshot1.png.png)
 
 
 Made with ❤️ by Chanda Khatik
