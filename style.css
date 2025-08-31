@@ -1,0 +1,58 @@
+h2 {
+  color: rgb(199, 85, 8);
+}
+
+p {
+  text-align: justify;
+  font-size: 1em;
+}
+
+span {
+  color: rgb(125, 76, 3);
+}
+
+.card {
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 2px 4px 6px black;
+  transition: 1s;
+}
+
+img {
+  width: 100%;
+  border-radius: 25px;
+}
+
+#pets {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+h4 {
+  text-align: right;
+  color: rgb(5, 150, 152);
+}
+
+h3 {
+  font-weight: 900;
+}
+
+h3:hover {
+  text-decoration: black underline;
+}
+
+.card:hover {
+  box-shadow: 2px 10px 16px black;
+}
+
+.card img {
+  transition-duration: 2s;
+}
+
+.card img:hover {
+  box-shadow: 2px 8px 12px black;
+}
